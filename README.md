@@ -13,6 +13,10 @@ The project can be accessed at https://niktern.github.io/Portfolio-Website/
 
 ## Usage
 
+Screenshots of website:
+![Top half of website](./Assets/websitescreenshot1.png)
+![Bottom half of website](./Assets/websitescreenshot2.png)
+
 The Navigation Bar links on the top right of the screen take you to the respective part of the website.
 
 To access a project, click on the respective picture card (or the text box in front of a given picture). Placeholder projects may be used until there are enough projects to fill each link.
